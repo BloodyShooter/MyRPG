@@ -1,2 +1,17 @@
 SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 720
+
+RIGHT = 0
+DOWN = 1
+LEFT = 2
+UP = 3
+
+ALIVE = 0
+DEAD = 2
+
+X = 0
+Y = 1
+D = 2
+
+START_X = 50
+START_Y = 50
